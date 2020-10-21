@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+    <string name="incorrect_toast">Wrong Ans!</string>
+    <string name="correct_toast">Right Ans!</string>
+
+    <string name="question_1">Guido Von Rossum is the founder of python!</string>
+    <string name="question_2">.py is the extension of a python file!</string>
+    <string name="question_3">James Gosling is the founder of C++ Programming! </string>
+    <string name="question_4">Java was initially called \"Oak\" after an oak tree!</string>
+    <string name="question_5">Google was originally developed by Sergey Brin and Larry Page!</string>
+    <string name="question_6">Dennis Ritchie is the founder of C Programming!</string>
+    <string name="question_7">What will be the output? \n\n print((20 % 10 >> 2) > 1 )</string>
+    <string name="question_8">What will be the output? \n\n print((0 ^ 1) == 1 )</string>
+    <string name="question_9">Google was originally called \"Backrub\"!</string>
+    <string name="question_10">What will be the output? \n\n print(bool())</string>
+    <string name="question_11">Nepal is the only country in the world which does not have a rectangular flag!</string>
+    <string name="question_12">Sydney is the Capital of Australia ?</string>
+    <string name="question_13">Mount Everest is the highest mountain in the world!</string>
+    <string name="question_14">The JRE deletes objects when it determines that they are no longer being used. This process is called \"Garbage Collection\"!</string>
+    <string name="question_15">Java bytecodes are human readable code!</string>
+</resources>
